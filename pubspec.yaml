@@ -1,0 +1,19 @@
+name: push_in_out_switcher
+description: An animated switcher with the push-in-out animation.
+version: 1.0.0
+homepage: https://github.com/nivisi/push_in_out_switcher
+repository: https://github.com/nivisi/push_in_out_switcher
+issue_tracker: https://github.com/nivisi/push_in_out_switcher/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
