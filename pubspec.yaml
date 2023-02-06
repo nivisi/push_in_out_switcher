@@ -1,6 +1,6 @@
 name: push_in_out_switcher
 description: An animated switcher with the push-in-out animation.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/nivisi/push_in_out_switcher
 repository: https://github.com/nivisi/push_in_out_switcher
 issue_tracker: https://github.com/nivisi/push_in_out_switcher/issues

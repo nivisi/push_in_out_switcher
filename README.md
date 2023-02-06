@@ -2,7 +2,7 @@
 
 🔄 An animated switcher with the push-in-out animation.
 
-<img height="550" width="300" src="../gif/example.gif" alt="Example" title="Example">
+<img height="550" width="300" src="gif/example.gif" alt="Example" title="Example">
 
 ## How to use
 
@@ -12,7 +12,7 @@ Add the dependency to **pubspec.yaml**:
 
 ```
 dependencies:
-  push_in_out_switcher: ^1.0.0
+  push_in_out_switcher: ^1.0.0+1
 ```
 
 ### Use it!
@@ -41,5 +41,5 @@ Widget build(BuildContext context) {
 | fade     | true                         | Whether to use fading aimation along with scaling animation. |
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v1.0.0-0175c2?logo=flutter
+[pub-version-img]: https://img.shields.io/badge/pub-v1.0.0+1-0175c2?logo=flutter
 [pub-version-url]: https://pub.dev/packages/push_in_out_switcher
