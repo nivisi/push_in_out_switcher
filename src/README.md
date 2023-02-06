@@ -2,6 +2,8 @@
 
 🔄 An animated switcher with the push-in-out animation.
 
+<img height="550" width="300" src="../gif/example.gif" alt="Example" title="Example">
+
 ## How to use
 
 ### Install the package
