@@ -23,8 +23,8 @@ class PushInOutSwitcher extends StatelessWidget {
     Key? key,
     this.duration = const Duration(milliseconds: 250),
     this.curve = Curves.easeInOut,
-    required this.child,
     this.fade = true,
+    required this.child,
   }) : super(key: key);
 
   /// Animation duration.
